@@ -1,1 +1,24 @@
-
+{
+"name": "SPC Chain Mainnet",
+"type": "coin",
+"symbol": "SPC",
+"decimals": 18,
+"website": "https://spcscan.io/",
+"description": "The Original Ethereum Blockchain powered by Proof of Work",
+"explorer": "https://explorer.spcscan.io/",
+"status": "active",
+"rpc_url": "https://mainnet-rpc.spcscan.io",
+"links": [
+{
+"name": "twitter",
+"url": "https://twitter.com/coin_pacific"
+},
+{
+"name": "telegram_news",
+"url": "https://t.me/StarPacificGroup"
+}
+],
+"tags": [
+"pow"
+]
+}
